@@ -1,2 +1,2 @@
 # IAED-2019-2020
-College project made in C
+College projects made in C
