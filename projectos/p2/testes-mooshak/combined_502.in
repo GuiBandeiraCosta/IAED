@@ -1,0 +1,19 @@
+p urq
+A Bruges
+l
+P Bruges
+A BERLIN
+A Besancon
+s urq:4:10
+l
+a caA:BERLIN:Bruges:6:4
+a fiJ:Besancon:LIMA:0:7
+P Bettiah
+a LCT:BERLIN:Besancon:4:6
+A Bintulu
+g
+g
+P Bruges
+p urq
+g
+x

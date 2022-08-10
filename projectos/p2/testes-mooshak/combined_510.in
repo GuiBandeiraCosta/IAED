@@ -1,0 +1,19 @@
+P Bankura
+P Bankura
+a QEe:Bankura:Berrechid:8:5
+g
+a NrU:SANA-A:BocaChica:4:9
+g
+P Barbacena
+a NrU:Barreiras:Bangaon:4:7
+s NrU:1:9
+A PARAMARIBO
+l
+r NrU
+P PARAMARIBO
+P Bankura
+A BERN
+P LISBON
+A BUJUMBURA
+a 1ii:BERN:PARAMARIBO:6:2
+x

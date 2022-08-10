@@ -1,0 +1,412 @@
+Nova encomenda 0.
+Novo produto 0.
+Nova encomenda 1.
+Novo produto 1.
+Nova encomenda 2.
+Maximo produto 1 2 2.
+Novo produto 2.
+Nova encomenda 3.
+Maximo produto 1 2 3.
+Novo produto 3.
+Nova encomenda 4.
+Maximo produto 0 0 17.
+Novo produto 4.
+Nova encomenda 5.
+Impossivel adicionar produto 1 a encomenda 1. Quantidade em stock insuficiente.
+Maximo produto 1 2 3.
+Impossivel adicionar produto 1 a encomenda 2. Quantidade em stock insuficiente.
+Maximo produto 1 2 3.
+Novo produto 5.
+Nova encomenda 6.
+Maximo produto 4 0 20.
+Maximo produto 4 0 26.
+Novo produto 6.
+Maximo produto 5 1 8.
+Maximo produto 5 1 11.
+Novo produto 7.
+Maximo produto 4 0 26.
+Impossivel adicionar produto 4 a encomenda 0. Quantidade em stock insuficiente.
+Maximo produto 4 0 26.
+Novo produto 8.
+Nova encomenda 7.
+Maximo produto 2 6 11.
+Impossivel adicionar produto 4 a encomenda 5. Quantidade em stock insuficiente.
+Maximo produto 4 0 26.
+Novo produto 9.
+Nova encomenda 8.
+Maximo produto 3 3 10.
+Novo produto 10.
+Novo produto 11.
+Nova encomenda 9.
+Maximo produto 2 6 12.
+Novo produto 12.
+Nova encomenda 10.
+Maximo produto 11 10 7.
+Maximo produto 2 6 13.
+Novo produto 13.
+Nova encomenda 11.
+Maximo produto 3 4 20.
+Impossivel adicionar produto 1 a encomenda 2. Quantidade em stock insuficiente.
+Maximo produto 1 2 3.
+Novo produto 14.
+Nova encomenda 12.
+Maximo produto 10 0 2.
+Novo produto 15.
+Nova encomenda 13.
+Maximo produto 8 6 17.
+Impossivel adicionar produto 2 a encomenda 6. Quantidade em stock insuficiente.
+Maximo produto 2 6 13.
+Novo produto 16.
+Maximo produto 5 1 15.
+Novo produto 17.
+Nova encomenda 14.
+Maximo produto 9 8 2.
+Impossivel adicionar produto 4 a encomenda 0. Quantidade em stock insuficiente.
+Maximo produto 4 0 26.
+Novo produto 18.
+Novo produto 19.
+Nova encomenda 15.
+Maximo produto 16 7 11.
+Impossivel adicionar produto 2 a encomenda 6. Quantidade em stock insuficiente.
+Maximo produto 2 6 13.
+Novo produto 20.
+Nova encomenda 16.
+Maximo produto 7 14 15.
+Novo produto 21.
+Maximo produto 15 2 12.
+Maximo produto 11 10 25.
+Novo produto 22.
+Nova encomenda 17.
+Maximo produto 19 15 11.
+Maximo produto 7 14 34.
+Novo produto 23.
+Nova encomenda 18.
+Maximo produto 10 13 14.
+Novo produto 24.
+Nova encomenda 19.
+Maximo produto 15 2 12.
+Maximo produto 9 8 19.
+Novo produto 25.
+Nova encomenda 20.
+Impossivel adicionar produto 10 a encomenda 0. Peso da encomenda excede o maximo de 200.
+Maximo produto 10 13 14.
+Maximo produto 11 10 30.
+Novo produto 26.
+Nova encomenda 21.
+Maximo produto 15 2 29.
+Novo produto 27.
+Maximo produto 26 20 6.
+Maximo produto 26 20 15.
+Novo produto 28.
+Impossivel adicionar produto 4 a encomenda 3. Quantidade em stock insuficiente.
+Maximo produto 4 0 26.
+Maximo produto 3 4 23.
+Novo produto 29.
+Nova encomenda 22.
+Maximo produto 25 10 15.
+Maximo produto 3 4 23.
+Novo produto 30.
+Maximo produto 7 14 34.
+Maximo produto 16 7 30.
+Novo produto 31.
+Nova encomenda 23.
+Maximo produto 25 10 15.
+Maximo produto 3 4 23.
+Novo produto 32.
+Nova encomenda 24.
+Maximo produto 15 2 29.
+Maximo produto 7 14 34.
+Novo produto 33.
+Novo produto 34.
+Nova encomenda 25.
+Maximo produto 12 19 15.
+Maximo produto 3 4 25.
+Novo produto 35.
+Nova encomenda 26.
+Maximo produto 33 18 20.
+Maximo produto 7 14 41.
+Novo produto 36.
+Nova encomenda 27.
+Impossivel adicionar produto 3 a encomenda 4. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 37.
+Nova encomenda 28.
+Maximo produto 15 2 29.
+Impossivel adicionar produto 3 a encomenda 4. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 38.
+Maximo produto 31 12 7.
+Impossivel adicionar produto 3 a encomenda 3. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 39.
+Nova encomenda 29.
+Maximo produto 6 3 18.
+Maximo produto 33 18 31.
+Novo produto 40.
+Nova encomenda 30.
+Novo produto 41.
+Nova encomenda 31.
+Impossivel adicionar produto 9 a encomenda 3. Peso da encomenda excede o maximo de 200.
+Maximo produto 9 8 19.
+Maximo produto 10 13 31.
+Novo produto 42.
+Nova encomenda 32.
+Maximo produto 16 7 33.
+Novo produto 43.
+Maximo produto 18 9 17.
+Maximo produto 16 7 34.
+Novo produto 44.
+Nova encomenda 33.
+Maximo produto 18 9 19.
+Novo produto 45.
+Nova encomenda 34.
+Maximo produto 25 20 28.
+Impossivel adicionar produto 5 a encomenda 1. Quantidade em stock insuficiente.
+Maximo produto 5 1 15.
+Novo produto 46.
+Nova encomenda 35.
+Maximo produto 25 20 34.
+Maximo produto 7 14 41.
+Novo produto 47.
+Nova encomenda 36.
+Maximo produto 18 9 19.
+Novo produto 48.
+Nova encomenda 37.
+Maximo produto 22 14 11.
+Impossivel adicionar produto 3 a encomenda 4. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 49.
+Nova encomenda 38.
+Maximo produto 48 13 11.
+Novo produto 50.
+Nova encomenda 39.
+Maximo produto 17 15 4.
+Maximo produto 15 2 30.
+Novo produto 51.
+Nova encomenda 40.
+Maximo produto 28 37 3.
+Maximo produto 0 0 18.
+Novo produto 52.
+Novo produto 53.
+Nova encomenda 41.
+Maximo produto 53 19 7.
+Maximo produto 25 20 34.
+Novo produto 54.
+Nova encomenda 42.
+Maximo produto 18 9 19.
+Novo produto 55.
+Maximo produto 28 37 19.
+Novo produto 56.
+Nova encomenda 43.
+Maximo produto 27 14 1.
+Impossivel adicionar produto 3 a encomenda 4. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 57.
+Nova encomenda 44.
+Maximo produto 31 12 14.
+Novo produto 58.
+Nova encomenda 45.
+Maximo produto 8 6 17.
+Maximo produto 22 14 13.
+Novo produto 59.
+Maximo produto 46 25 4.
+Maximo produto 8 6 17.
+Novo produto 60.
+Maximo produto 26 20 15.
+Impossivel adicionar produto 3 a encomenda 4. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 61.
+Nova encomenda 46.
+Maximo produto 16 7 38.
+Novo produto 62.
+Maximo produto 28 37 19.
+Impossivel adicionar produto 3 a encomenda 3. Quantidade em stock insuficiente.
+Maximo produto 3 4 25.
+Novo produto 63.
+Nova encomenda 47.
+Maximo produto 53 19 23.
+Novo produto 64.
+Nova encomenda 48.
+Maximo produto 60 27 2.
+Impossivel adicionar produto 6 a encomenda 3. Peso da encomenda excede o maximo de 200.
+Maximo produto 6 3 18.
+Novo produto 65.
+Nova encomenda 49.
+Impossivel adicionar produto 4 a encomenda 26. Quantidade em stock insuficiente.
+Maximo produto 4 0 26.
+Novo produto 66.
+Nova encomenda 50.
+Maximo produto 29 17 12.
+Maximo produto 25 20 45.
+Novo produto 67.
+Nova encomenda 51.
+Maximo produto 47 44 15.
+Novo produto 68.
+Impossivel adicionar produto 59 a encomenda 18. Peso da encomenda excede o maximo de 200.
+Maximo produto 29 17 23.
+Novo produto 69.
+Nova encomenda 52.
+Maximo produto 18 23 32.
+Novo produto 70.
+Nova encomenda 53.
+Maximo produto 61 7 8.
+Maximo produto 6 3 21.
+Novo produto 71.
+Nova encomenda 54.
+Maximo produto 46 25 5.
+Novo produto 72.
+Nova encomenda 55.
+Maximo produto 57 41 2.
+Novo produto 73.
+Nova encomenda 56.
+Impossivel adicionar produto 26 a encomenda 5. Quantidade em stock insuficiente.
+Maximo produto 26 20 15.
+Novo produto 74.
+Nova encomenda 57.
+Maximo produto 9 8 27.
+Novo produto 75.
+Nova encomenda 58.
+Maximo produto 18 23 34.
+Novo produto 76.
+Nova encomenda 59.
+Maximo produto 59 17 12.
+Maximo produto 7 14 42.
+Novo produto 77.
+Nova encomenda 60.
+Impossivel adicionar produto 1 a encomenda 4. Quantidade em stock insuficiente.
+Maximo produto 1 2 3.
+Novo produto 78.
+Nova encomenda 61.
+Impossivel adicionar produto 48 a encomenda 13. Peso da encomenda excede o maximo de 200.
+Maximo produto 48 13 11.
+Novo produto 79.
+Impossivel adicionar produto 26 a encomenda 20. Quantidade em stock insuficiente.
+Maximo produto 26 20 15.
+Novo produto 80.
+Nova encomenda 62.
+Impossivel adicionar produto 1 a encomenda 23. Quantidade em stock insuficiente.
+Maximo produto 1 2 3.
+Maximo produto 17 15 24.
+Novo produto 81.
+Nova encomenda 63.
+Maximo produto 29 17 23.
+Maximo produto 60 27 11.
+Novo produto 82.
+Nova encomenda 64.
+Maximo produto 43 49 14.
+Maximo produto 8 6 20.
+Novo produto 83.
+Nova encomenda 65.
+Impossivel adicionar produto 10 a encomenda 0. Peso da encomenda excede o maximo de 200.
+Maximo produto 10 13 31.
+Novo produto 84.
+Nova encomenda 66.
+Maximo produto 71 52 6.
+Novo produto 85.
+Nova encomenda 67.
+Impossivel adicionar produto 7 a encomenda 22. Quantidade em stock insuficiente.
+Maximo produto 7 14 42.
+Novo produto 86.
+Nova encomenda 68.
+Maximo produto 53 19 23.
+Impossivel adicionar produto 10 a encomenda 13. Peso da encomenda excede o maximo de 200.
+Maximo produto 10 13 31.
+Novo produto 87.
+Nova encomenda 69.
+Maximo produto 40 61 19.
+Maximo produto 18 23 37.
+Novo produto 88.
+Nova encomenda 70.
+Maximo produto 14 53 1.
+Impossivel adicionar produto 16 a encomenda 7. Quantidade em stock insuficiente.
+Maximo produto 16 7 38.
+Novo produto 89.
+Nova encomenda 71.
+Maximo produto 34 33 7.
+Maximo produto 60 27 22.
+Novo produto 90.
+Nova encomenda 72.
+Maximo produto 47 44 32.
+Novo produto 91.
+Nova encomenda 73.
+Maximo produto 13 64 12.
+Maximo produto 34 33 22.
+Novo produto 92.
+Impossivel adicionar produto 16 a encomenda 7. Quantidade em stock insuficiente.
+Maximo produto 16 7 38.
+Novo produto 93.
+Maximo produto 49 60 10.
+Maximo produto 59 17 29.
+Novo produto 94.
+Nova encomenda 74.
+Maximo produto 18 23 37.
+Novo produto 95.
+Impossivel adicionar produto 5 a encomenda 74. Quantidade em stock insuficiente.
+Maximo produto 5 1 15.
+Novo produto 96.
+Nova encomenda 75.
+Maximo produto 70 45 3.
+Novo produto 97.
+Nova encomenda 76.
+Maximo produto 22 14 13.
+Novo produto 98.
+Nova encomenda 77.
+Maximo produto 59 17 29.
+Maximo produto 49 60 16.
+Novo produto 99.
+Maximo produto 0 0 18.
+Maximo produto 1 2 3.
+Maximo produto 2 6 13.
+Maximo produto 3 4 25.
+Maximo produto 3 3 19.
+Maximo produto 4 0 26.
+Maximo produto 4 5 1.
+Maximo produto 5 1 15.
+Maximo produto 6 3 21.
+Maximo produto 7 14 42.
+Maximo produto 7 22 12.
+Maximo produto 8 6 20.
+Maximo produto 8 9 5.
+Maximo produto 9 8 27.
+Maximo produto 10 13 31.
+Maximo produto 10 0 2.
+Maximo produto 11 10 30.
+Maximo produto 12 19 15.
+Maximo produto 13 64 12.
+Maximo produto 14 53 1.
+Maximo produto 15 2 30.
+Maximo produto 15 8 11.
+Maximo produto 16 7 38.
+Maximo produto 17 15 24.
+Maximo produto 18 23 37.
+Maximo produto 18 9 19.
+Maximo produto 19 15 11.
+Maximo produto 22 14 13.
+Maximo produto 22 55 10.
+Maximo produto 25 20 45.
+Maximo produto 25 10 32.
+Maximo produto 26 20 15.
+Maximo produto 26 5 2.
+Maximo produto 27 14 1.
+Maximo produto 28 37 19.
+Maximo produto 28 0 3.
+Maximo produto 29 17 23.
+Maximo produto 29 47 18.
+Maximo produto 31 12 14.
+Maximo produto 33 18 31.
+Maximo produto 34 33 22.
+Maximo produto 40 61 19.
+Maximo produto 43 49 14.
+Maximo produto 46 25 5.
+Maximo produto 47 44 32.
+Maximo produto 48 13 11.
+Maximo produto 49 60 16.
+Maximo produto 53 19 23.
+Maximo produto 53 47 19.
+Maximo produto 57 41 2.
+Maximo produto 59 17 29.
+Maximo produto 59 53 8.
+Maximo produto 60 27 22.
+Maximo produto 61 7 8.
+Maximo produto 70 45 3.
+Maximo produto 71 52 6.

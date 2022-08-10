@@ -1,0 +1,18 @@
+A Barinas
+p l7x
+l
+A Barrackpur
+p l7x
+a Cjc:Barinas:LJUBLJANA:9:7
+p KX8
+A Braunschweig
+a lHU:Braunschweig:Barrackpur:1:2
+a o4S:Braunschweig:Barinas:1:3
+p ncN
+r kPL
+r l7x
+r DZk
+P Barrackpur
+r b9S
+r o4S
+x

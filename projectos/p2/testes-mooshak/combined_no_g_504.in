@@ -1,0 +1,14 @@
+P Brighton
+p o74
+l
+A BOGOTA
+l
+s o74:7:0
+l
+r pmY
+A Bournemouth
+a Jgo:Bournemouth:BOGOTA:2:10
+A Bhuj
+s Jgo:0:3
+r o74
+x

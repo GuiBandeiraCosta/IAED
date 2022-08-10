@@ -1,0 +1,18 @@
+A BokaroSteelCity
+A BELGRADE
+P BokaroSteelCity
+A Binan
+P BELGRADE
+a JKN:Binan:BELGRADE:7:3
+a Tsz:BokaroSteelCity:Binan:6:6
+A REYKJAVIK
+A MOSCOW
+A Berhampur
+p Tsz
+a Ack:Berhampur:Birmingham:1:0
+P Behbahan
+a nvb:Berhampur:BokaroSteelCity:1:1
+A Beaumont
+A Bintulu
+p Q3F
+x

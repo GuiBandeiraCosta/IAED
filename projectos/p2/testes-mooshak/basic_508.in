@@ -1,0 +1,20 @@
+P Beaumont
+A Benoni
+A MANAMA
+a 1E8:MANAMA:Beaumont:0:7
+A Benoni
+a DsJ:Beaumont:Benoni:0:4
+a 3s2:Benoni:MANAMA:6:4
+A Braila
+P BatonRouge
+a l9v:Braila:Beaumont:7:4
+a 5Ry:Beaumont:MANAMA:0:1
+a XJW:MANAMA:Beaumont:0:0
+l
+p 3s2
+a 1mV:Braila:Benoni:0:10
+A STOCKHOLM
+p l9v
+P Beaumont
+P MANAMA
+x
